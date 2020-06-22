@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4299607068c8d43499d3826cec7828dc, type: 3}
+  m_Name: Room Editor Model
+  m_EditorClassIdentifier: 
+  VerticalSize: 8
+  PlanPointPrefab: {fileID: 7756647457431200505, guid: 420076d6b69033643b83b41a5ab3dea0,
+    type: 3}
+  Points: []
